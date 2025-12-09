@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Session tokens (IMPORTANT: Keep private!)
+tokens/
+*.data.json
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

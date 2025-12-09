@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.git
+.env
+tokens
+session
+royal_session
+royal_session_v2
+uploads
